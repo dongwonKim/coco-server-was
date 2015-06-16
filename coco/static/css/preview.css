@@ -1,0 +1,20 @@
+.thumbnail a {
+	color:#0D3C5F;
+	font-size: 15px;
+	text-decoration: none;
+}
+
+.thumbnail .header {
+	padding-left:10px;
+	margin-top: -7px;
+}
+
+.thumbnail {
+	padding-left:0px;
+	padding-right:0px;
+	padding-bottom:0px;
+}
+
+.caption li {
+	margin-bottom:5px;
+}
